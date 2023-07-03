@@ -6,7 +6,8 @@ Steps to run:
 <br/>
 2)npm run dev (in server directory)
 <br/> 3) get back from server directory using cd .. <br/> 4) go to client directory(cd client) <br/>
-5)npm i all (in client directory) 6) npm run start(in client directory) <br/>
+5)npm i all (in client directory) <br/>
+6) npm run start(in client directory) <br/>
 <br/>
 <br/>
 <br/>
